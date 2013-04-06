@@ -1,2 +1,2 @@
-puts "today is running"
-puts "But still say hello."
+puts "Hello world"
+puts "Hello kitty"
